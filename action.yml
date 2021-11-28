@@ -42,7 +42,7 @@ runs:
     INPUT_COMMIT_MESSAGE: ${{ inputs.commit_message }}
     INPUT_SAME_COMMIT: ${{ inputs.same_commit }}
     INPUT_COMMIT_OPTIONS: ${{ inputs.commit_options }}
-    INPUT_COMMIT_OPTIONS: ${{ inputs.push_options }}
+    INPUT_PUSH_OPTIONS: ${{ inputs.push_options }}
     INPUT_FORMATTER_OPTIONS: ${{ inputs.formatter_options }}
     INPUT_FILE_PATTERN: ${{ inputs.file_pattern }}
     INPUT_DRY: ${{ inputs.dry }}
