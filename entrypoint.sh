@@ -31,9 +31,6 @@ _git_changes() {
 }
 
 # PROGRAM
-# Changing to the directory
-cd "$GITHUB_ACTION_PATH"
-
 FORMATTER_RESULT=0
 echo "Formatting files..."
 echo "Files:"
