@@ -1,4 +1,4 @@
-FROM golang:apline
+FROM golang:1.16-alpine
 
 # TODO: do we need all of these?
 RUN apk --no-cache add bash git git-lfs
