@@ -49,5 +49,5 @@ runs:
     INPUT_ONLY_CHANGED: ${{ inputs.only_changed }}
     INPUT_GITHUB_TOKEN: ${{ inputs.github_token }}
 branding:
-  icon: 'git-pull-request'  
+  icon: 'git-pull-request'
   color: 'blue'
