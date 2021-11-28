@@ -1,4 +1,4 @@
-name: 'Go Formatter'
+name: 'auto-gofmt'
 description: 'Auto format Go pull requests'
 inputs:
   commit_message:
