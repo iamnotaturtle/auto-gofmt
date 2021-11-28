@@ -30,7 +30,6 @@ _git_changes() {
     git diff
 }
 
-(
 # PROGRAM
 # Changing to the directory
 cd "$GITHUB_ACTION_PATH"
